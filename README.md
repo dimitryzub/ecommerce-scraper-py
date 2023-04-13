@@ -16,7 +16,7 @@ _____
 </h1>
 
 <p align="center">
-  Scrape ecommerce websites such as Amazon, eBay, Walmart, Home Depot, Google Shopping from a single Python module.
+  Scrape Amazon, eBay, Walmart, Home Depot, Google Shopping from a single Python module.
 </p>
 
 <div align="center">
