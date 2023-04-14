@@ -11,9 +11,9 @@
 
 _____
 
-<h3 align="center">
+<h4 align="center">
   Scrape Amazon, eBay, Walmart, Home Depot, Google Shopping from a single Python module.
-</h3>
+</h4>
 
 <div align="center">
    <img src="https://user-images.githubusercontent.com/78694043/231951681-c56b79ce-1643-406c-90c7-39692c6eeaee.svg" width="700" alt="SerpApi">
