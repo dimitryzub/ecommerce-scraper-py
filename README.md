@@ -11,14 +11,10 @@
 
 _____
 
-<h1 align="center">
-  Ecommerce Scraper PY
-</h1>
-
-<p align="center">
+<h3 align="center">
   Scrape Amazon, eBay, Walmart, Home Depot, Google Shopping from a single Python module.
-</p>
+</h3>
 
 <div align="center">
-   <img src="https://user-images.githubusercontent.com/78694043/231762488-daa315e6-8a4e-4d0c-bf4d-79bc6cde47d5.svg" width="700" alt="SerpApi">
+   <img src="https://user-images.githubusercontent.com/78694043/231951681-c56b79ce-1643-406c-90c7-39692c6eeaee.svg" width="700" alt="SerpApi">
 </div>
