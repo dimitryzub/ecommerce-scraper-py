@@ -16,5 +16,5 @@ _____
 </h4>
 
 <div align="center">
-   <img src="https://user-images.githubusercontent.com/78694043/231951681-c56b79ce-1643-406c-90c7-39692c6eeaee.svg" width="700" alt="SerpApi">
+   <img src="https://user-images.githubusercontent.com/78694043/231951681-c56b79ce-1643-406c-90c7-39692c6eeaee.svg" width="600" alt="SerpApi">
 </div>
