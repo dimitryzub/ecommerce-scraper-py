@@ -1,9 +1,7 @@
 from google_shopping import GoogleShoppingSearch, GoogleShoppingProduct
 
-API_KEY = '5868ece26d41221f5e19ae8b3e355d22db23df1712da675d144760fc30d57988'
-
 search_scraper = GoogleShoppingSearch(
-    api_key=API_KEY,
+    api_key='<your_serpapi_api_key>',
     query='Sony PlayStation 5',
     price_from=400,
     price_to=1000,
@@ -19,7 +17,7 @@ products = search_scraper.get_products()
 
 for product in products:
     product_scraper = GoogleShoppingProduct(
-        api_key=API_KEY,
+        api_key='<your_serpapi_api_key>',
         product_id=product['product_id'],
         reviews_limit=15,
         domain='google.de',
